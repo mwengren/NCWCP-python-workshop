@@ -9,10 +9,10 @@ The material here has been modified from the courses taught earlier by [Rebekah 
 
 This course covers the following:
 
-1. Basics of Jupyter Notebooks and Numpy and masked ARrays.
+1. Basics of Jupyter Notebooks and Numpy and masked Arrays.
 2. Reading tabular files using pandas, basic plotting using matplotlib and reading netcdf files.
 3. Xarrays
-4. Geopgraphicla map plotiing using cartopy.
+4. Geopgraphical mapping plotiing using cartopy.
 
 <b> Packages covered include </b>:
 
@@ -28,3 +28,36 @@ This course covers the following:
 * To run this you need anaconda installed on the computer
 * Installation instructions are provided for mac, windows and Linux [here](https://github.com/modern-tools-workshop/ncep-workshop/tree/master/Installation_instructions).
 
+---
+## Resources
+
+### Packages and Tutorials
+
+<b> Pandas </b>
+* Short Introduction: https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html
+* Cookbook for more details: https://pandas.pydata.org/pandas-docs/stable/user_guide/cookbook.html#cookbook
+
+---
+<b> Matplotlib </b>
+* Pyplot Tutorial: https://matplotlib.org/3.1.1/tutorials/introductory/pyplot.html
+
+---
+<b> Reading self describing file </b>
+* <b> NETCDF </b>
+    * Detailed tutorial https://unidata.github.io/netcdf4-python/netCDF4/index.html.
+* <b> HDF files </b>
+    * The package [h5py](https://www.h5py.org/) is similar to netcdf4.
+    * User manual at http://docs.h5py.org/en/stable/.
+* <b> GRIB/GRIB2 files </b>
+    * World Meteorology Association standard format, e.g. commonly used with weather-related models like ECMWF and GFS.
+    * Can be opened using [pygrib](https://github.com/jswhit/pygrib).
+    * Example usage at https://jswhit.github.io/pygrib/docs/.
+* <b> BUFR </b>
+    * Another common model format.
+    * Open with [python-bufr](https://github.com/pytroll/python-bufr), part of the pytroll project.
+---    
+    
+### General Python resources    
+<b> Free online Tutorials</b>
+   * Youtube series for absolute beginners [CS Dojo](https://www.youtube.com/watch?v=Z1Yd7upQsXY&list=PLBZBJbE_rGRWeh5mIBhD-hhDwSEDxogDg)
+   * Enhance your workflow [Automate Boring Stuff](https://automatetheboringstuff.com/)
