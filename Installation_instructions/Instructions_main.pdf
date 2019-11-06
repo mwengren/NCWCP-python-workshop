@@ -1,0 +1,13 @@
+INSTRUCTIONS FOR INSTALLATIONS BEFORE THE PYTHON WORKSHOP
+
+ANACONDA INSTALLATION
+
+* For the workshop, you will need to have Anaconda installed, which is Python along with a collection of scientific packages. 
+* Please work with your IT department to install it on your work laptop, or else on a personal laptop.
+* This folder contains the installation instructions kindly provided by Rebekah Esmaili, for both Linux, Mac, and Windows (for Linux users, note the updated version: instead of Anaconda3-5.3.1-Linux-x86_64.sh it will be Anaconda3-2019.10-Linux-x86_64.sh).
+* We recommend installing Anaconda so that you are able to use it yourself in the future, but for those who are
+
+DOWNLOADING DATA and CODES
+
+* Please download the  folder by clicking ......
+* 
