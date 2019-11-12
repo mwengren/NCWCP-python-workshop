@@ -2,7 +2,7 @@
 ### By [Kriti Bhargava](https://cisess.umd.edu/meet-our-scientists/kriti-bhargava/) and [Eviatar Bach](http://eviatarbach.com/)
 ---
 
-A four hour crash course in Python focusing on reading and visualizing data-sets used in earth sciences.
+A four hour crash course in Python focusing on reading and visualizing data-sets used in Earth sciences.
 The material here has been modified from the courses taught earlier by [Rebekah Esmaili](http://www.rebekahesmaili.com). 
 
 ---
@@ -10,7 +10,7 @@ The material here has been modified from the courses taught earlier by [Rebekah 
 This course covers the following:
 
 1. Basics of Jupyter Notebooks and Numpy and masked Arrays.
-2. Reading tabular files using pandas, basic plotting using matplotlib and reading netcdf files.
+2. Reading tabular files using pandas, basic plotting using matplotlib and reading NetCDF files.
 3. Xarrays
 4. Geopgraphical mapping plotiing using cartopy.
 
@@ -22,11 +22,12 @@ This course covers the following:
 4. [netCDF4](https://unidata.github.io/netcdf4-python/netCDF4/index.html)
 5. [xarray](http://xarray.pydata.org/en/stable/)
 6. [Cartopy](https://pypi.org/project/Cartopy/)
+7. [pyresample](https://pyresample.readthedocs.io/en/latest/)
 
 ---
 <b> Installation requirement </b>
-* To run this you need anaconda installed on the computer
-* Installation instructions are provided for mac, windows and Linux [here](https://github.com/modern-tools-workshop/ncep-workshop/tree/master/Installation_instructions).
+* To run this you need Anaconda installed on the computer
+* Installation instructions are provided for Mac, Windows, and Linux [here](https://github.com/modern-tools-workshop/ncep-workshop/tree/master/Installation_instructions).
 
 ---
 ## Resources
