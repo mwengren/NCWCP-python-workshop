@@ -9,4 +9,3 @@ dependencies:
   - dask
   - pyresample
   - cartopy
-  - netCDF4
