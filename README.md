@@ -29,6 +29,8 @@ This course covers the following:
 * To run this you need Anaconda installed on the computer
 * Installation instructions are provided for Mac, Windows, and Linux [here](https://github.com/modern-tools-workshop/ncep-workshop/tree/master/Installation_instructions).
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/modern-tools-workshop/NCWCP-python-workshop/master)
+
 ---
 ## Resources
 
