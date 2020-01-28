@@ -2,6 +2,7 @@ name: ncwcp-python-workshop
 channels:
   - conda-forge
 dependencies:
+  - jupyter
   - numpy
   - matplotlib
   - pandas
